@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308442826401",
+    "firebase_url": "https://comprepairs-d2183.firebaseio.com",
+    "project_id": "comprepairs-d2183",
+    "storage_bucket": "comprepairs-d2183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308442826401:android:2732bcdcbaee8b8c3312e0",
+        "android_client_info": {
+          "package_name": "comprepair.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308442826401-5egthmsq4d523159hrlqvbv0a8tj20ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO212xKLZvWrfYjo6FvFLk2QmXRz5M1RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308442826401-5egthmsq4d523159hrlqvbv0a8tj20ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
